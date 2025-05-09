@@ -8,10 +8,8 @@ Diseñar, entrenar e interpretar un modelo de red neuronal que prediga si un pac
 
 ## 🗂 Estructura del Proyecto
 
-## 🗂 Estructura del Proyecto
-
 ```plaintext
-caso4_supervivencia_red_neuronal/
+Caso3_supervivencia_red_neuronal/
 ├── data/
 │   ├── raw/                   # Datos originales (tablas separadas)
 │   ├── processed/             # Dataset unificado y limpio
